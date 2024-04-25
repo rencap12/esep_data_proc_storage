@@ -1,4 +1,12 @@
-# How to Run the Code
+# How to Run the Code using Replit
+## 1. Ensure you have a Replit account
+## 2. Go to this link: https://replit.com/join/cgjexdrzha-rencap12
+## 3. Click on the Green "Run" Button at the top.
+## 4. You can see code and the output.
+
+---
+
+# How to Run the Code Using G++ Locally
 ## 1. Make sure you have a C++ compiler installed on your system.
 ## 2. Download or clone this repository to your local machine.
 ## 3. Open a terminal or command prompt and navigate to the directory where the code is located.
