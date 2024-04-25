@@ -7,7 +7,7 @@
 ---
 
 # How to Run the Code Using G++ Locally
-## 1. Make sure you have a C++ compiler installed on your system.
+## 1. Make sure you have a C++ compiler and Git installed on your system.
 ## 2. Download or clone this repository to your local machine.
 ## 3. Open a terminal or command prompt and navigate to the directory where the code is located.
 ## 4. Compile the code using your C++ compiler. For example, if you're using g++, you can run:
