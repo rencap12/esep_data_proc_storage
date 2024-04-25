@@ -20,3 +20,9 @@
  ```
 ## 6. You will see the output of the program in the terminal based on the Assignment Spec and Example
 https://docs.google.com/document/d/12ynhzGc0iC6zNMo1kog3e4WqKMyDrBOdOLqDf9pOONI/edit
+
+---
+# How to modify to become an "official" assignment
+## Clarify use of live user input (should accept input while program runs or just provide static example in main() )
+## Provide test cases to ensure correctness of results
+## Specify where to host project (I think Replit is helpful for others to run/look at source code for a C++ program)
